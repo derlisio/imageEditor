@@ -1,0 +1,13 @@
+Desarrollar una aplicación de escritorio que tenga las siguientes funciones de edición de imagen:
+
+1. Abrir imagen
+2. Guardar imagen editada
+3. Deshacer cambios
+4. Traslacion sobre x e y
+5. Rotacion de imagen
+6. Redimension de imagen
+7. Reflejo de imagen
+8. Recorte
+9. Equalización por canal
+10. Suavizado en 4 formas (promedio, gaussiano, mediana, bilateral)
+El total de trabajo es de 17 puntos
